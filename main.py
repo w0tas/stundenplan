@@ -96,7 +96,7 @@ schueler_name = input("Geben Sie den Namen der Schülerin/des Schülers ein: ")
 print("Ihr Stundenplan wird erstellt", end='', flush=True)
 for _ in range(3):  
     print(".", end='', flush=True)
-    time.sleep(1)  # Warten Sie 1 Sekunde
+    time.sleep(1)  
 
 gefundene_kurse = suche_kurse_von_schueler(schueler_name, kurse_daten)
 fuege_kurse_in_stundenplan(gefundene_kurse, stundenplan)
