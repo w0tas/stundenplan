@@ -87,7 +87,7 @@ def fuege_kurse_in_stundenplan(gefundene_kurse, stundenplan):
 kurse_daten = kurse_extrahieren()
 
 # Begrüßungsnachricht
-print("Hallo, herzlich Willkommen zum GaK-Stundenplanersteller für Jahrgang 12!")
+print("Hallo, herzlich Willkommen zum GAK-Stundenplanersteller für Jahrgang 12!")
 
 # Benutzer nach dem Namen fragen
 schueler_name = input("Geben Sie den Namen der Schülerin/des Schülers ein: ")
