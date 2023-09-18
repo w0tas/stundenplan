@@ -1,5 +1,5 @@
 # stundenplan
-Individueller Stundenplanersteller für die Oberstufe des GaKs
+Individueller Stundenplanersteller für Jg. 12 des GaKs
 
 Falls du auch gerade in der 12ten bist und du es ausprobieren möchtest, mache Folgendes:
 1. Lade dir den Code herunter
