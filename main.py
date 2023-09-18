@@ -14,7 +14,7 @@ def kurse_extrahieren():
     alle_kurse = []  # Alle Kurse aus verschiedenen Zeilen
     kurse = []       # Temporäre Liste für Kurse aus einer Zeile
 
-    with open("/home/nils/Coding/python/timetable/k.txt", "r") as file:
+    with open("kurslisten.txt", "r") as file:
         lines = file.readlines()  # Alle Zeilen der Eingabedatei lesen
 
     indices = None  # Initialisierung der Positionsindizes
